@@ -1,4 +1,4 @@
-# Task 2 Starter Repo
+# Wells Fargo Task 2 Repo
 Contains Everything you need to get started on task 2 of Forage's Wells Fargo software engineering program
 
 This project is a **Spring Boot application** designed for handling banking transaction data with **JPA entities** and **RESTful APIs**. It models accounts and transactions, persists them in a relational database, and exposes CRUD endpoints for integration.
