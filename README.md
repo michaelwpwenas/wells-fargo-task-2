@@ -24,8 +24,8 @@ This project is a **Spring Boot application** designed for handling banking tran
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wells-fargo-imt.git
-   cd wells-fargo-imt
+   git clone https://github.com/michaelwpwenas/wells-fargo-task-2.git
+   cd wells-fargo-task-2
    ```
 
 2. Build and run:
